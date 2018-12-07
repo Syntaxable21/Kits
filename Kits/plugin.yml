@@ -1,0 +1,14 @@
+name: Kits
+main: me.syntaxable.kits.Main
+version: 1.0
+description: gives you kits
+           
+commands:
+  diamondkit:
+    description: get a diamond kit
+  ironkit:
+    description: get an iron kit
+  leatherkit:
+    description: get a leather kit  
+  chainmailkit:
+    description: get a chainmail kit  
